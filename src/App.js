@@ -6,10 +6,10 @@ class App extends Component {
     super(props);
     this.state = {
       person: {
-        fullName: "John Doe",
-        bio: "A software engineer from Silicon Valley.",
-        imgSrc: "https://via.placeholder.com/150", // Replace with a valid image URL
-        profession: "Software Engineer",
+        fullName: "Brian Seif Karume",
+        bio: "A software engineer from Ongata Rongai, Kajiado, Kenya.",
+        imgSrc: "./Images/Arsenal.1.jpg", 
+        profession: "FullStack Software Engineer",
       },
       shows: false,
       timeElapsed: 0,
