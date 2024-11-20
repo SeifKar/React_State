@@ -6,7 +6,6 @@ class App extends Component {
     person: {
       fullName: "Brian Seif",
       bio: "A passionate software developer with 6 months of experience",
-      imgSrc: "https://www.google.com/search?q=arsenal+logo+150+by+150&oq=arsenal+logo+150+by+150&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRiPAtIBCTEwMzk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=gGEfMq5P1ffl6M&vssid=_Spk9Z5u0F8ydi-gPh6XLoQc_35",
       profession: "Software Engineer"
     },
     shows: false,
